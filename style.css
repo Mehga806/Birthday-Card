@@ -75,12 +75,12 @@ body{
     width: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("./HoverImg.jpg");
+    background-image: url("HoverImg.jpg");
     background-size: cover;
     margin-bottom: 40px;
 }
 #gift-img:hover{
-    background-image: url("/SayanthDamodaran.png");
+    background-image: url("SayanthDamodaran.png");
     background-size: cover;
 }
 .gift-section .claim-cert{
